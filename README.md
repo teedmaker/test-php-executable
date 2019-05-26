@@ -1,8 +1,8 @@
 ### Test PHP Executable
 
-Testing creating a cli php interface.
+Test creating a cli php interface.
 
-To run this, install or download this project, then open this directory and run these commands:
+To run this, clone or download this repository, then open the directory in terminal and run these commands:
 
 ````
 > php ./bin/main.php {commands}
