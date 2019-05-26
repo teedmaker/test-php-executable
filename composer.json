@@ -1,0 +1,15 @@
+{
+  "name": "teedmaker/test-php-executable",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tadeu Barbosa",
+      "email": "tadeufbarbosa@gmail.com"
+    }
+  ],
+  "require": {},
+  "scripts": {
+    "maintest": "php ./app/main.php"
+  }
+}
