@@ -28,4 +28,26 @@ To run this, install or download this project, then open this directory and run 
 > maintest {commands}
 ````
 
+## commands
+
+For now, the only commands that we have is:
+
+> new controller {name} and
+> new service {name}
+
+Then, put in your terminal:
+
+````
+# create a controller called [Home]Controller
+# create a file in `app/controllers/[Home]Controller.php`
+# put a example of a controller in there
+
+maintest new controller Home
+
+# create a service in the same way
+# create a file in `app/services/[Users]Services.php`
+
+maintest new service Users
+````
+
 It's just a experiment!
