@@ -1,8 +1,8 @@
 ### Test PHP Executable
 
-Test creating a cli php interface.
+Creating a CLI PHP INTERFACE.
 
-To run this, clone or download this repository, then open the directory in terminal and run these commands:
+To run this project just clone or download, then open the directory in terminal and run these commands:
 
 ````
 # download this project (https://github.com/teedmaker/test-php-executable/archive/master.zip)
@@ -26,8 +26,8 @@ To run this, clone or download this repository, then open the directory in termi
 > alias maintest="php ./bin/main.php"
 > maintest {commands}
 
-# it's not oficial run globally yet, but... you can do anything:
-# create a alias that points to your php directory
+# it will not run globally yet, but you can do anything:
+# create a alias that points to your `PHP` directory
 
 > alias maintest="/path/to/php /path/to/this/bin/main.php"
 > cd another/directory/lorem
@@ -36,12 +36,12 @@ To run this, clone or download this repository, then open the directory in termi
 
 ## commands
 
-For now, the only commands that we have is:
+For now, the only commands that we will have is:
 
 > new controller {name} and
 > new service {name}
 
-Then, put in your terminal:
+Then, in your terminal:
 
 ````
 # create a controller called [Home]Controller
